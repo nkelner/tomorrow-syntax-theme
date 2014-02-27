@@ -1,0 +1,11 @@
+{
+  "name": "tomorrow-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Tomorrow syntax theme for Atom.",
+  "repository": "https://github.com/rockymadden/tomorrow-syntax-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.59.0"
+  }
+}
